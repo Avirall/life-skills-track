@@ -51,9 +51,9 @@ Furthermore, the choice of a NoSQL database may necessitate using multiple datab
 NoSQL databases offer remarkable advantages, including flexible data models, horizontal scalability, fast queries, and developer-friendly interfaces. These features empower organizations to adapt to evolving data requirements, handle substantial data loads, and expedite application development. However, it's essential to acknowledge the limitations of NoSQL databases, particularly the historical absence of ACID transactions across multiple documents and their potential for increased storage usage compared to SQL databases. Nevertheless, with advancements like multi-document ACID transactions, NoSQL databases are making strides toward addressing these concerns. When selecting a database solution, organizations should carefully consider their specific use cases and whether a NoSQL or SQL database is the more suitable choice. Ultimately, NoSQL databases have become a crucial tool in the modern data landscape, offering flexibility and performance that can be harnessed to drive innovation and meet the diverse needs of today's applications.
 
 ### References
-[Why MongoDB?](https://www.mongodb.com/why-use-mongodb)
-[Cassandra Apache](https://cassandra.apache.org/_/index.html)
-[Redis vs other databses](https://levelup.gitconnected.com/redis-vs-other-databases-an-in-depth-comparison-of-sql-and-nosql-solutions-7c4a9ca9183)
-[Why CouchBase?](https://docs.couchbase.com/server/current/introduction/why-couchbase.html#:~:text=Couchbase%20manages%20JSON%20documents%2C%20eliminating,data%20processing%20capabilities%20on%20it.)
-[What is Apache HBase?](https://www.ibm.com/topics/hbase#:~:text=It%20is%20well%20suited%20for,relational%20data%20store%20at%20all.)
-[NoSQL explained](https://www.mongodb.com/nosql-explained)
+- [Why MongoDB?](https://www.mongodb.com/why-use-mongodb)
+- [Cassandra Apache](https://cassandra.apache.org/_/index.html)
+- [Redis vs other databses](https://levelup.gitconnected.com/redis-vs-other-databases-an-in-depth-comparison-of-sql-and-nosql-solutions-7c4a9ca9183)
+- [Why CouchBase?](https://docs.couchbase.com/server/current/introduction/why-couchbase.html#:~:text=Couchbase%20manages%20JSON%20documents%2C%20eliminating,data%20processing%20capabilities%20on%20it.)
+- [What is Apache HBase?](https://www.ibm.com/topics/hbase#:~:text=It%20is%20well%20suited%20for,relational%20data%20store%20at%20all.)
+- [NoSQL explained](https://www.mongodb.com/nosql-explained)
