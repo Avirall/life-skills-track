@@ -56,7 +56,7 @@ the habit of continuous learning-
 - Set daily reminders on your phone or computer to allocate time for learning.
 - Create a dedicated learning space or corner in your home where you're reminded of your intention to learn.
 - Start with small, manageable learning goals.
-- 
+  
 ### Question 9:
 Pick one habit that you would like to eliminate or do less of? What are the steps that you can take to make it make the cue invisible or the process unattractive or hard or the response unsatisfying?
 
